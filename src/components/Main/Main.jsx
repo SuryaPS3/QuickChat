@@ -31,7 +31,7 @@ const Main = () => {
                         src={assets.menu_icon} 
                         alt="Menu" 
                     />
-                    <p>Gemini</p>
+                    <p>QuickChat</p>
                 </div>
                 <img src={assets.user_icon} alt="User" />
             </div>
@@ -113,7 +113,7 @@ const Main = () => {
                         </div>
                     </div>
                     <p className="info">
-                        Gemini is an AI-powered assistant that helps you with a variety of tasks, from answering questions to generating content.                     </p>
+                        QuickChat is an AI-powered assistant using gemini api that helps you with a variety of tasks, from answering questions to generating content.                     </p>
                 </div>
             </div>
         </div>
